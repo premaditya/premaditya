@@ -1,14 +1,15 @@
-# Hey, I'm Prem Aditya Dhulipala 👋
+# Hi, I'm Prem Aditya Dhulipala 👋
 
-### Aspiring Data Scientist | Machine Learning & GenAI Enthusiast | Python Developer
+🎓 Computer Science Engineering Graduate | 💻 Aspiring Data Scientist & GenAI Developer
 
-I enjoy building projects that combine machine learning, computer vision, and generative AI to solve practical problems. I'm continuously learning new technologies and improving my skills by working on hands-on projects.
+I build practical projects using Python, Machine Learning, and Generative AI, and I enjoy turning ideas into working applications.
 
-- 🔭 **Currently building:** DebugDesk — a GenAI project
-- 🤖 **Exploring:** Generative AI, RAG systems, LLMs, and AI-powered applications
-- 🧠 **Interested in:** Machine Learning, Deep Learning, NLP, and Computer Vision
-- 💻 **Languages:** Python, SQL, and JavaScript
-- 📂 **Portfolio:** [View my projects](https://github.com/premaditya)
+- 🔭 Currently building **DebugDesk**, a RAG-based troubleshooting assistant
+- 🌱 Learning more about **RAG, LLM applications, and evaluation**
+- 🛠️ Working with **Python, LangChain, Streamlit, and React**
+- 🤝 Open to entry-level opportunities in Data Science and AI
+
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/prem-aditya-dhulipala-627a43268/)
 
 ---
 
@@ -42,53 +43,36 @@ I enjoy building projects that combine machine learning, computer vision, and ge
 
 ## 🚀 Featured Projects
 
-### ⚖️ [AI-Powered Legal Document Assistant](https://github.com/premaditya/legal-assistant-v4)
-A RAG-based application that answers questions about Indian laws using a legal knowledge base. It uses ChromaDB for retrieval, FlashRank for reranking, and Google Gemini for generating answers.
+### 🐛 DebugDesk *(in progress)*
+A RAG-based troubleshooting assistant that helps diagnose software issues by retrieving evidence from documentation and grounding its answers in that evidence.
 
-**Tech:** Python · LangChain · RAG · ChromaDB · FlashRank · Google Gemini · Streamlit
+**Tech:** Python · LangChain · RAG · LLMs
+
+### ⚖️ [AI-Powered Legal Document Assistant](https://github.com/premaditya/legal-assistant-v4)
+A RAG application that answers questions about Indian law from a legal knowledge base. It uses ChromaDB for retrieval, FlashRank for reranking, and Google Gemini for answer generation.
+
+**Tech:** Python · LangChain · ChromaDB · FlashRank · Google Gemini · Streamlit
+
+### 🎯 [CareerFit AI](https://github.com/premaditya/career-fit-ai)
+Analyzes a resume against a job description and shows how well the candidate's skills match the role. Streamlit powers the frontend and n8n handles workflow automation.
+
+**Tech:** Python · Streamlit · n8n · LLMs
 
 ### 🤟 [American Sign Language Detection](https://github.com/premaditya/american-sign-language-detection)
-A real-time ASL alphabet recognition system that uses MediaPipe to extract hand landmarks and an Artificial Neural Network to classify hand gestures.
+A real-time ASL alphabet recognition system. MediaPipe extracts hand landmarks and an Artificial Neural Network classifies the gestures.
 
 **Tech:** Python · TensorFlow · ANN · MediaPipe · OpenCV
 
 ### 🩺 [Diabetes Detection](https://github.com/premaditya/Diabetes-Detection)
-A machine learning project that predicts diabetes risk using a Random Forest classifier, with data preprocessing and model evaluation.
+Predicts diabetes risk with a Random Forest classifier, including data preprocessing and model evaluation.
 
 **Tech:** Python · Pandas · Scikit-learn · Random Forest · Streamlit
-
-### 🎯 [CareerFit AI](https://github.com/premaditya/career-fit-ai)
-An AI-powered application that analyzes resumes against job descriptions and helps users understand how well their skills match a role. It uses Streamlit for the frontend and n8n for workflow automation.
-
-**Tech:** Python · Streamlit · n8n · LLMs
-
-
----
-
-## 🔨 Currently Building
-
-### DebugDesk 🐛
-
-I'm currently working on DebugDesk, a Generative AI project. More details will be added as the project develops.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=premaditya&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=premaditya&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
-</p>
-
-
 
 ---
 
 ## 🤝 Connect With Me
 
+- **LinkedIn:** [Prem Aditya Dhulipala](https://www.linkedin.com/in/prem-aditya-dhulipala-627a43268/)
 - **GitHub:** [@premaditya](https://github.com/premaditya)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/prem-aditya-dhulipala-627a43268/)
 
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
+⭐ Thanks for visiting! Feel free to explore my repositories.
