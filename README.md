@@ -1,13 +1,6 @@
-<h1 align="center">Hi, I'm Prem Aditya Dhulipala 👋</h1>
+# Hi, I'm Prem Aditya Dhulipala 👋
 
-<p align="center">
-  🎓 Computer Science Engineering Graduate &nbsp;|&nbsp; 💻 Aspiring Data Scientist & GenAI Developer
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prem-aditya-dhulipala-627a43268/"><img src="https://img.shields.io/badge/-LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7C3AED" alt="LinkedIn" /></a>
-  <a href="https://github.com/premaditya"><img src="https://img.shields.io/badge/-GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED" alt="GitHub" /></a>
-</p>
+🎓 Computer Science Engineering Graduate | 💻 Aspiring Data Scientist & GenAI Developer
 
 I build practical projects using Python, Machine Learning, and Generative AI, and I enjoy turning ideas into working applications.
 
@@ -16,33 +9,35 @@ I build practical projects using Python, Machine Learning, and Generative AI, an
 - 🛠️ Working with **Python, LangChain, Streamlit, and React**
 - 🤝 Open to entry-level opportunities in Data Science and AI
 
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/prem-aditya-dhulipala-627a43268/)
+
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/-Python-1E1B4B?style=for-the-badge&logo=python&logoColor=white&labelColor=7C3AED)
-![SQL](https://img.shields.io/badge/-SQL-1E1B4B?style=for-the-badge&logo=mysql&logoColor=white&labelColor=7C3AED)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1E1B4B?style=for-the-badge&logo=javascript&logoColor=white&labelColor=7C3AED)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Machine Learning & Data Science**
 
-![Pandas](https://img.shields.io/badge/-Pandas-1E1B4B?style=for-the-badge&logo=pandas&logoColor=white&labelColor=7C3AED)
-![NumPy](https://img.shields.io/badge/-NumPy-1E1B4B?style=for-the-badge&logo=numpy&logoColor=white&labelColor=7C3AED)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-1E1B4B?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=7C3AED)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-1E1B4B?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=7C3AED)
-![OpenCV](https://img.shields.io/badge/-OpenCV-1E1B4B?style=for-the-badge&logo=opencv&logoColor=white&labelColor=7C3AED)
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-1E1B4B?style=for-the-badge&logo=google&logoColor=white&labelColor=7C3AED)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
 **Generative AI & Tools**
 
-![LangChain](https://img.shields.io/badge/-LangChain-1E1B4B?style=for-the-badge&logo=langchain&logoColor=white&labelColor=7C3AED)
-![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-1E1B4B?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=7C3AED)
-![Streamlit](https://img.shields.io/badge/-Streamlit-1E1B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=7C3AED)
-![Git](https://img.shields.io/badge/-Git-1E1B4B?style=for-the-badge&logo=git&logoColor=white&labelColor=7C3AED)
-![GitHub](https://img.shields.io/badge/-GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED)
-![n8n](https://img.shields.io/badge/-n8n-1E1B4B?style=for-the-badge&logo=n8n&logoColor=white&labelColor=7C3AED)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
@@ -51,28 +46,33 @@ I build practical projects using Python, Machine Learning, and Generative AI, an
 ### 🐛 DebugDesk *(in progress)*
 A RAG-based troubleshooting assistant that helps diagnose software issues by retrieving evidence from documentation and grounding its answers in that evidence.
 
-`Python` `LangChain` `RAG` `LLMs`
+**Tech:** Python · LangChain · RAG · LLMs
 
 ### ⚖️ [AI-Powered Legal Document Assistant](https://github.com/premaditya/legal-assistant-v4)
 A RAG application that answers questions about Indian law from a legal knowledge base. It uses ChromaDB for retrieval, FlashRank for reranking, and Google Gemini for answer generation.
 
-`Python` `LangChain` `ChromaDB` `FlashRank` `Google Gemini` `Streamlit`
+**Tech:** Python · LangChain · ChromaDB · FlashRank · Google Gemini · Streamlit
 
 ### 🎯 [CareerFit AI](https://github.com/premaditya/career-fit-ai)
 Analyzes a resume against a job description and shows how well the candidate's skills match the role. Streamlit powers the frontend and n8n handles workflow automation.
 
-`Python` `Streamlit` `n8n` `LLMs`
+**Tech:** Python · Streamlit · n8n · LLMs
 
 ### 🤟 [American Sign Language Detection](https://github.com/premaditya/american-sign-language-detection)
 A real-time ASL alphabet recognition system. MediaPipe extracts hand landmarks and an Artificial Neural Network classifies the gestures.
 
-`Python` `TensorFlow` `ANN` `MediaPipe` `OpenCV`
+**Tech:** Python · TensorFlow · ANN · MediaPipe · OpenCV
 
 ### 🩺 [Diabetes Detection](https://github.com/premaditya/Diabetes-Detection)
 Predicts diabetes risk with a Random Forest classifier, including data preprocessing and model evaluation.
 
-`Python` `Pandas` `Scikit-learn` `Random Forest` `Streamlit`
+**Tech:** Python · Pandas · Scikit-learn · Random Forest · Streamlit
 
 ---
 
-<p align="center">⭐ Thanks for visiting! Feel free to explore my repositories.</p>
+## 🤝 Connect With Me
+
+- **LinkedIn:** [Prem Aditya Dhulipala](https://www.linkedin.com/in/prem-aditya-dhulipala-627a43268/)
+- **GitHub:** [@premaditya](https://github.com/premaditya)
+
+⭐ Thanks for visiting! Feel free to explore my repositories.
