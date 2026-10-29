@@ -42,34 +42,26 @@ I enjoy building projects that combine machine learning, computer vision, and ge
 
 ## 🚀 Featured Projects
 
-### 🤖 Generative AI & RAG
+### ⚖️ [AI-Powered Legal Document Assistant](https://github.com/premaditya/legal-assistant-v4)
+A RAG-based application that answers questions about Indian laws using a legal knowledge base. It uses ChromaDB for retrieval, FlashRank for reranking, and Google Gemini for generating answers.
 
-| Project | Description | Repository |
-|---|---|---|
-| Legal Document Assistant | RAG-based question answering over Indian legal documents, with source citations and reranking. | [View Project](https://github.com/premaditya/legal-assistant-v4) |
-| CareerFit AI | Resume and job description matching with skill-gap analysis and personalized recommendations. | [View Project](https://github.com/premaditya/career-fit-ai) |
+**Tech:** Python · LangChain · RAG · ChromaDB · FlashRank · Google Gemini · Streamlit
 
-### 🧠 Machine Learning & Deep Learning
+### 🤟 [American Sign Language Detection](https://github.com/premaditya/american-sign-language-detection)
+A real-time ASL alphabet recognition system that uses MediaPipe to extract hand landmarks and an Artificial Neural Network to classify hand gestures.
 
-| Project | Description | Repository |
-|---|---|---|
-| American Sign Language Detection | Real-time ASL alphabet recognition using MediaPipe hand landmarks and an ANN. | [View Project](https://github.com/premaditya/american-sign-language-detection) |
-| Diabetes Detection | Diabetes risk classification using machine learning and a Random Forest model. | [View Project](https://github.com/premaditya/Diabetes-Detection) |
-| Toxic Comment Detection | NLP-based classification of toxic comments using machine learning. | [View Project](https://github.com/premaditya/Toxic-Comment-Detection) |
-| Laptop Price Prediction | Predicting laptop prices using regression and feature preprocessing. | [View Project](https://github.com/premaditya/laptop-price-prediction) |
+**Tech:** Python · TensorFlow · ANN · MediaPipe · OpenCV
 
-### 👁️ Computer Vision
+### 🩺 [Diabetes Detection](https://github.com/premaditya/Diabetes-Detection)
+A machine learning project that predicts diabetes risk using a Random Forest classifier, with data preprocessing and model evaluation.
 
-| Project | Description | Repository |
-|---|---|---|
-| Air Writing Recognition | Recognizes English alphabet letters drawn in the air using hand tracking and KNN. | [View Project](https://github.com/premaditya/Air-Writing) |
-| Driver Drowsiness Detection | Detects signs of driver drowsiness using computer vision and facial landmarks. | [View Project](https://github.com/premaditya/Driver-Drowsiness-Detection) |
-| Hand Gesture Recognition | Recognizes hand gestures using MediaPipe and Python. | [View Project](https://github.com/premaditya/Hand-Gesture-Recognition) |
+**Tech:** Python · Pandas · Scikit-learn · Random Forest · Streamlit
 
-### 📊 Data Analysis & NLP
+### 🎯 [CareerFit AI](https://github.com/premaditya/career-fit-ai)
+An AI-powered application that analyzes resumes against job descriptions and helps users understand how well their skills match a role. It uses Streamlit for the frontend and n8n for workflow automation.
 
-- [Grocery Store SQL Analysis](https://github.com/premaditya/grocery-store-sql-analysis)
-- [Bank Customer Intent Classification](https://github.com/premaditya/Bank_Customer_Intent)
+**Tech:** Python · Streamlit · n8n · LLMs
+
 
 ---
 
