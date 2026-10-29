@@ -75,9 +75,11 @@ I'm currently working on DebugDesk, a Generative AI project. More details will b
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premaditya&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=premaditya&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premaditya&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premaditya&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
